@@ -1,13 +1,14 @@
 # CST126_4 - Pulling it all together
 
-**Class ID:** 
+**Class ID:** Cottonee
 
 **Assignement ID:** CST126_4
 
 **Unresolved Issues:**
 
 **Notes:**
-
+I used the term "Facilitation", but it did not have an origin date, so i used 0
+I also used "Backlog", which did not have an origin date, but i found one on dictionary.com
 
 ---
 
